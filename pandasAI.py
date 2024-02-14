@@ -4,7 +4,7 @@ from pandasai.helpers.openai_info import get_openai_callback
 import pandas as pd
 
 llm = OpenAI(
-    api_token='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',
+    api_token='',
     temperature = 0.7
 )
 
